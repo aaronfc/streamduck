@@ -24,3 +24,5 @@ CTRL+ALT+3 => Toggle microphone
 
 It will run an application in your computer's `5000` port and you can access it on any mobile device in the same network.
 
+## TODO / Tasks
+Check [separate tasks file](tasks.md).
